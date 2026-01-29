@@ -1,5 +1,4 @@
 # Barbie_Diploma_Thesis_Excel
-# Barbie Brand Perception in Czech Republic - Diploma Thesis
 
 ## Introduction
 
@@ -64,6 +63,8 @@ The dataset contains real-world data collected from Czech female students and in
 ## Dashboard Development
 
 ### 📉 Charts
+
+![image.png](attachment:e7e2d51e-b3dc-47a7-9cc5-f73820064b62:image.png)
 
 #### Did Barbie affect you throughout your life (appearance, career, confidence)? – Bar Chart
 
