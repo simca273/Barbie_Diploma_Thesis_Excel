@@ -24,84 +24,73 @@ The survey examines:
 - Perceived values and the overall impact of the Barbie brand
 - Reactions to the advertising campaign *“Give Limitless Possibilities”*
 
-The final dataset consists of **65 responses**, which informed the choice of analytical methods.
-
----
-
 ## Thesis File
 
-The final version of the diploma thesis is available here:  
-📄 [Diploma Thesis (PDF)](link-to-your-thesis.pdf)  
-
-⚠️ *(Note: replace the link with the actual PDF file.)*
-
----
+The final version of the diploma thesis is available here:  [Diploma Thesis (PDF)](link-to-your-thesis.pdf)  
 
 ## Data Analysis Tools and Techniques
 
 The following Excel features were used for data processing, analysis, and visualization:
 
-- 📉 **Charts**
-- 🧮 **Pivot Tables**
-- ❎ **Data Validation**
-- 🧹 **Manual Data Preparation**
-
----
+- **Charts**
+- **Pivot Tables**
+- **Data Validation**
+- **Manual Data Preparation**
 
 ## Dataset Overview (Barbie Survey)
 
-The dataset contains real-world data collected from Czech female students and includes:
+The final dataset consists of **65 responses** from Czech women between the age 19-28.
+The dataset contains real-world data, which include information on:
 
 - Demographic characteristics
 - Perceptions of gender differences
-- Attitudes toward the Barbie brand
-- Views on gender stereotypes in society and media
-- Evaluations of the *“Give Limitless Possibilities”* campaign
-
----
+- Attitudes toward Barbie
+- Perception of values and the impact of the Barbie brand
+- Views on gender stereotypes in society, media and toys
+- Evaluation of the *“Give Limitless Possibilities”* campaign
 
 ## Dashboard Development
 
-### 📉 Charts
+###  Charts
 
 ![image.png](attachment:e7e2d51e-b3dc-47a7-9cc5-f73820064b62:image.png)
 
 #### Did Barbie affect you throughout your life (appearance, career, confidence)? – Bar Chart
 
-- 🛠️ **Excel Features:** Combined bar chart with optimized layout
-- 🎨 **Design Choice:** Horizontal bars for easier comparison across response categories
-- 📊 **Data Organization:** Responses sorted for improved readability
-- 💡 **Insights Gained:**  
+-  **Excel Features:** Combined bar chart with optimized layout
+-  **Design Choice:** Horizontal bars for easier comparison across response categories
+-  **Data Organization:** Responses sorted for improved readability
+-  **Insights Gained:**  
   Respondents perceive Barbie as having the strongest influence on appearance and self-confidence, while its influence on career aspirations is limited.
 
 ---
 
-### 🧮 Pivot Tables and Pivot Charts
+###  Pivot Tables and Pivot Charts
 
-- 📊 **Pivot Table Fields:**  
+- **Pivot Table Fields:**  
   Rows represent answer options to selected survey questions, while values display response counts
 
-- 🎯 **Analytical Purpose:**  
+-  **Analytical Purpose:**  
   Pivot tables were used to examine the importance respondents place on individualistic versus collective values and to support clear comparison of response frequencies
 
-- 🔢 **Visualization Support:**  
+- **Visualization Support:**  
   Pivot tables enabled accurate and efficient creation of pivot charts
 
 ---
 
-### ❎ Data Validation
+### Data Validation
 
-- 🔍 **Filtered Lists:**  
+- **Filtered Lists:**  
   Data validation rules were applied to selected fields to restrict inputs to predefined values
 
-- 🎯 **Purpose:**  
+- **Purpose:**  
   - Prevents inconsistent or incorrect entries  
   - Improves data consistency  
   - Enhances overall dashboard usability
 
 ---
 
-### ❎ Data Preparation
+### Data Preparation
 
 Due to the small dataset size (**65 responses**), data preprocessing was performed manually to maintain contextual accuracy and efficiency.  
 
