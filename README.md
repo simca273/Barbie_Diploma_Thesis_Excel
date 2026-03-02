@@ -12,6 +12,7 @@ More specifically, the objectives of the thesis were to:
 
 ---
 
+https://github.com/simca273/Barbie_Diploma_Thesis_Excel/blob/main/image.png
 ## Data Collection
 
 The data were collected using **Google Forms**. The dataset contains both quantitative and qualitative data, including demographic information and respondents’ subjective perceptions.
