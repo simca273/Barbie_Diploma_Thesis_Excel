@@ -10,15 +10,9 @@ More specifically, the objectives of the thesis were to:
 - Determine whether and how the Barbie brand influences consumers’ attitudes.
 - Propose appropriate marketing communication strategies for transforming the image of the Barbie brand in the Czech Republic.
 
-![image.png](attachment:e7e2d51e-b3dc-47a7-9cc5-f73820064b62:image.png)
-https://github.com/simca273/Barbie_Diploma_Thesis_Excel/blob/main/image.png
-
-![Graph](https://github.com/simca273/Barbie_Diploma_Thesis_Excel/blob/main/image.png)
-
 ## Thesis File
 
-The final version of the diploma thesis is available here:  [Diploma Thesis (PDF)](link-to-your-thesis.pdf)  https://github.com/simca273/Barbie_Diploma_Thesis_Excel/blob/main/zaverecna_prace%20(3).pdf
-[Download Thesis](https://github.com/simca273/Barbie_Diploma_Thesis_Excel/blob/main/zaverecna_prace%20(3).pdf)
+The final version of the diploma thesis is available here: 
 
 ## Data Analysis Tools and Techniques
 
@@ -57,7 +51,7 @@ The preparation process included:
 
 ###  Charts
 
-![image.png](attachment:e7e2d51e-b3dc-47a7-9cc5-f73820064b62:image.png)
+<img src="Images/Graf1.png" width="600">
 
 **Did Barbie affect you thoughout your life in (look, career, confidence) ? - Bar Chart**
 
