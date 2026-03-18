@@ -27,7 +27,6 @@ The following Excel features were used for data processing, analysis, and visual
 - **Data Preparation**
 - **Charts**
 - **Pivot Tables**
-- **Data Validation**
 
 ## Dataset Overview (Barbie Survey)
 
