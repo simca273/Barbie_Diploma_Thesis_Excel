@@ -51,9 +51,9 @@ The preparation process included:
 
 ###  Charts
 
-<img src="Images/Graf1.png" width="600">
-
 **Did Barbie affect you thoughout your life in (look, career, confidence) ? - Bar Chart**
+
+<img src="Images/Graf1.png" width="600">
 
 - **Excel Features:** Combined bar chart feature and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for visual comparison of how Barbie affects respondents in different areas.
@@ -62,6 +62,10 @@ The preparation process included:
 ---
 
 ###  Pivot Tables and Pivot Charts
+
+**The findings suggest that in Barbie advertisements, Czech consumers tend to prioritize individual values over collective ones. - Pivot Table**
+
+<img src="Images/image.png" width="600">
 
   -  **Pivot Table fields:** Utilizes Pivot Table for specific column of the dataset, where rows are the possible options for the thesis question and for values was for the character of the question more valuable to see count of each option.
 - **Insights:** Provides specific information about what degree of importance Czech respondents find in embracing of indivudual vs. collective values (in this question, it is used thoughout the whole questionaire.
