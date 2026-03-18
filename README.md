@@ -12,7 +12,7 @@ More specifically, the objectives of the thesis were to:
 
 ## Thesis File
 
-The final version of the diploma thesis is available here: 
+The final version of the diploma thesis is available here: [View Full Thesis](zaverecna_prace.pdf) 
 
 ## Data Analysis Tools and Techniques
 
