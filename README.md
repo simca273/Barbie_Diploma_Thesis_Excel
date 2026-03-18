@@ -57,7 +57,6 @@ The preparation process included:
 
 - **Excel Features:** Combined bar chart feature and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for visual comparison of how Barbie affects respondents in different areas.
-- **Data Organization:** Sorted job titles by descending salary for improved readability.  
 - **Insights Gained:** This enables quick identification of in which areas the brand has the biggest influence on women, noting that there is significant influence on women´s perception of look and  confidence, while its influence on career aspirations is limited.
 ---
 
