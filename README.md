@@ -51,7 +51,7 @@ The preparation process included:
 
 ###  Charts
 
-**Did Barbie affect you thoughout your life in (look, career, confidence) ? - Bar Chart**
+**Did Barbie affect you thoughout your life in (look, career, confidence)?**
 
 <img src="Images/Graf1.png" width="600">
 
@@ -62,7 +62,7 @@ The preparation process included:
 
 ###  Pivot Tables and Pivot Charts
 
-**The findings suggest that in Barbie advertisements, Czech consumers tend to prioritize individual values over collective ones. - Pivot Table**
+**The findings suggest that in Barbie advertisements, Czech consumers tend to prioritize individual values over collective ones.**
 
 <img src="Images/image.png" width="600">
 
