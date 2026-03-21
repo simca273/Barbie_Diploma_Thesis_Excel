@@ -67,8 +67,8 @@ The preparation process included:
 <img src="Images/image.png" width="600">
 
   -  **Pivot Table fields:** Utilizes Pivot Table for specific column of the dataset, where rows are the possible options for the thesis question and for values was for the character of the question more valuable to see count of each option.
-- **Insights:** Provides specific information about what degree of importance Czech respondents find in embracing of indivudual vs. collective values (in this question, it is used thoughout the whole questionaire.
 - **Pivot Table Purpose:** Based on pivot tables are created pivot charts, which visually represent key findings.
+- - **Insights:** Provides specific information about what degree of importance Czech respondents find in embracing of indivudual vs. collective values. From the graph as 25 out of 60 Czech women prefer balance of both values in ads, sligly learning toward the individual values, where sligly more women agree than disagree, which is in common with nature of Czechs.
 
 ---
 
