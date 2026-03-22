@@ -2,12 +2,12 @@
 
 ## Introduction
 
-The goal of my diploma thesis was to support brand Barbie in it´s marketing strategies and better understanding Czech consumers and adapting marketing communication to the local cultural context.
+The goal of my reseach was to support Barbie brand by better understanding Czech consumers and derive key insights which help adapting marketing communication of the brand to the local cultural context.
 
 More specifically, the objectives of the thesis were to:
 
 - Identify how Czech female consumers perceive intercultural elements in Barbie advertising.
-- Determine whether and how the Barbie brand influences consumers’ attitudes.
+- Determine whether and how the Barbie brand influences consumers’ attitudes in Czech Republic.
 - Propose appropriate marketing communication strategies for transforming the image of the Barbie brand in the Czech Republic.
 
 ## Thesis File
@@ -16,11 +16,23 @@ The final version of the diploma thesis is available here: [View Full Thesis](za
 
 ## Data Analysis Tools and Techniques
 
+1. Defining the business problem: Defining which strategies can brand improve.
+2. Plan of the research: 
+3. Data Collection: Data were collected by questionairre and interview.
+4. Data Analysis:
+
 The following Excel features were used for data processing, analysis, and visualization:
 
 - **Data Preparation**
 - **Charts**
 - **Pivot Tables**
+
+5. Data Interpretation: Deriving key insight based on which improve marketing decisions.
+
+- **Data Collection:** Designed and executed surveys and interviews to gather primary data on consumer attitudes.
+- **Data Cleaning & Preparation:** Used Excel to clean, organize, and structure raw data for analysis.
+- **Data Analysis & Visualization:** Applied Pivot Tables, charts, and basic statistical calculations in Excel to explore trends and patterns.
+- **Insight Generation:** Interpreted results to derive actionable recommendations for localized marketing communication.
 
 ## Dataset Overview (Barbie Survey)
 
@@ -74,5 +86,8 @@ The preparation process included:
 
 ## Conclusion
 
-This thesis  allows marketing specialist understand what steps need to be taken for adjusting marketing communication for Czech customers. It demonstrates that the Barbie brand influences consumers’ values and attitudes and has the potential to contribute to positive social change and the formation of attitudes among young generations. At the same time, the results highlight the importance of localizing marketing communication to the Czech cultural context. This reseach confirms that culturally sensitive and value-driven communication plays a key role in shaping brand perception and consumer attitudes in the Czech Republic. The findings suggest a shift away from a single ideal of beauty toward supporting healthier self-confidence and ambitions among girls.  At the same time, the study highlights the necessity of localizing marketing communication to the Czech cultural context. 
+This reseach  allows marketing specialist understand what steps need to be taken for adjusting marketing communication for Czech customers. It demonstrates that the Barbie brand influences consumers’ values and attitudes and has the potential to contribute to positive social change and the formation of attitudes among young generations. At the same time, the results highlight the importance of localizing marketing communication to the Czech cultural context. This reseach confirms that culturally sensitive and value-driven communication plays a key role in shaping brand perception and consumer attitudes in the Czech Republic. The findings suggest a shift away from a single ideal of beauty toward supporting healthier self-confidence and ambitions among girls.  At the same time, the study highlights the necessity of localizing marketing communication to the Czech cultural context. 
 
+
+This research provides insights into how marketing communication of the Barbie brand should be adapted to the Czech market. The findings highlight the importance of culturally localized communication as preferences and responses differ within the Czech context. Additionally, the data suggests a shift away from a single ideal of beauty toward messaging that supports self-confidence and diverse ambitions.
+Overall, the analysis demonstrates that value-driven and culturally sensitive marketing communication plays a key role in shaping brand perception in the Czech Republic and should be considered in future campaigns targeted for their customers.
